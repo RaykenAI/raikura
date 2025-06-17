@@ -13,7 +13,7 @@ requirements = (BASE_DIR / "requirements.txt").read_text(encoding="utf-8").split
 setup(
     # Package metadata
     name="raikura",  # The name of your package
-    version="0.1.0",  # Follow semantic versioning: MAJOR.MINOR.PATCH
+    version="0.1.1",  # Follow semantic versioning: MAJOR.MINOR.PATCH
     description="Advanced AI/ML library that enhances scikit-learn with DL, NLP, AutoML, fairness, and interpretability",
     long_description=long_description,
     long_description_content_type="text/markdown",
